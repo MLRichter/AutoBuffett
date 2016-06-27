@@ -1,0 +1,2100 @@
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.381642124276408, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.9992992979483275, 'long_price': 1.000701193379312, 'layers': 4, 'adaption': 0.1342096584672524, 'learner': 3, 'epoch': 20000, 'capital': 2435.4360815090145, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 114.9946159532932, 'risk_aversion': 0.7720201404668814, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2435.4360815090145, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7521444646671416, 'lever': 1, 'decision': 0.62603052013357585}
+Best Account Value: 2458.86000205
+Worst Account Value: 999.939611357
+END VAL: 2435.43608151
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00640761925298
+
+Best Return: 11.8400583921
+Worst Return: -10.8325266265
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 0
+
+ Average End: 2435.43608151
+Best: 2435.43608151
+ Worst: 2435.43608151
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.4668831423141352, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0000568855753398, 'long_price': 0.99994311766044475, 'layers': 4, 'adaption': 0.15281224078117805, 'learner': 3, 'epoch': 20000, 'capital': 2876.8337107857506, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 85.33648020224544, 'risk_aversion': 0.4070024231333053, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2876.8337107857506, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9495708504511712, 'lever': 1, 'decision': 0.080807542623466705}
+Best Account Value: 2903.10201446
+Worst Account Value: 999.957441636
+END VAL: 2876.83371079
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00690266298652
+
+Best Return: 17.7955175486
+Worst Return: -15.7844299148
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 1
+
+ Average End: 2656.13489615
+Best: 2876.83371079
+ Worst: 2435.43608151
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.3912078376255842, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0000797884945403, 'long_price': 0.9999202178711557, 'layers': 4, 'adaption': 0.3088747047008462, 'learner': 3, 'epoch': 20000, 'capital': 1535.9335795532843, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 107.00916261859872, 'risk_aversion': 0.7887327847699205, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1535.9335795532843, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6868916003319441, 'lever': 1, 'decision': -0.50916746992218698}
+Best Account Value: 1551.33213306
+Worst Account Value: 994.999276583
+END VAL: 1535.93357955
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00439840315801
+
+Best Return: 6.75191340482
+Worst Return: -6.97224565263
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 2
+
+ Average End: 2282.73445728
+Best: 2876.83371079
+ Worst: 1535.93357955
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.4713682580515677, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99983267457013869, 'long_price': 1.0001673534323463, 'layers': 4, 'adaption': 0.184293376996051, 'learner': 3, 'epoch': 20000, 'capital': 768.6557520951626, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 105.42300284967405, 'risk_aversion': 0.2876941154773806, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2269.9069495971144, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.15754961125263908, 'lever': 1, 'decision': 0.37884610787304845}
+Best Account Value: 2270.90260442
+Worst Account Value: 961.558798429
+END VAL: 2269.9069496
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00622789601811
+
+Best Return: 13.7970361589
+Worst Return: -11.0357014296
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 3
+
+ Average End: 2279.52758036
+Best: 2876.83371079
+ Worst: 1535.93357955
+Iteration: 0
+Insturction Dictionary{'transactionCost': 4.744146801322099, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99989256948479066, 'long_price': 1.0001074420577649, 'layers': 4, 'adaption': 0.0039331813463536446, 'learner': 3, 'epoch': 20000, 'capital': 2906.1988891302176, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 87.14218465911723, 'risk_aversion': 0.530989334253135, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2906.1988891302176, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.20739455560785222, 'lever': 1, 'decision': -0.35230367086978642}
+Best Account Value: 2938.33503086
+Worst Account Value: 994.842927447
+END VAL: 2906.19888913
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00769564675002
+
+Best Return: 14.9067396372
+Worst Return: -14.2565055224
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 4
+
+ Average End: 2404.86184212
+Best: 2906.19888913
+ Worst: 1535.93357955
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.7526764552300886, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99902806632442065, 'long_price': 1.0009728792496844, 'layers': 4, 'adaption': 0.47067025077926666, 'learner': 3, 'epoch': 20000, 'capital': 805.33514400614456, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 127.35235481219222, 'risk_aversion': 0.18741723896906207, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2606.0853537763269, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.5676918202994296, 'lever': 1, 'decision': 0.34380879731988884}
+Best Account Value: 2607.78726425
+Worst Account Value: 949.867262207
+END VAL: 2606.08535378
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00664369781613
+
+Best Return: 11.9928339375
+Worst Return: -13.1594532148
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 5
+
+ Average End: 2438.39909406
+Best: 2906.19888913
+ Worst: 1535.93357955
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.48706852201470346, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.9989327238605108, 'long_price': 1.0010684164348571, 'layers': 4, 'adaption': 0.26997513729206024, 'learner': 3, 'epoch': 20000, 'capital': 2736.3083846599357, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 98.79635917632675, 'risk_aversion': 0.575558957883598, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2736.3083846599357, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 1, 'lever': 1, 'decision': 0.2609163351305015}
+Best Account Value: 2801.93914573
+Worst Account Value: 999.972821759
+END VAL: 2736.30838466
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00695818538198
+
+Best Return: 14.0041210699
+Worst Return: -13.3308880194
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 6
+
+ Average End: 2480.95756414
+Best: 2906.19888913
+ Worst: 1535.93357955
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.2745460831889008, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0017175407167325, 'long_price': 0.99828540417141587, 'layers': 4, 'adaption': 0.12528037643064224, 'learner': 3, 'epoch': 20000, 'capital': 51.954346462344432, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 108.78988315703363, 'risk_aversion': 0.7263501959012054, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1734.06525249118, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.45489789069695136, 'lever': 1, 'decision': 0.72406987341915308}
+Best Account Value: 1739.646561
+Worst Account Value: 953.034389823
+END VAL: 1734.06525249
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00446468794828
+
+Best Return: 9.56097681279
+Worst Return: -8.22923418104
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 7
+
+ Average End: 2387.59602519
+Best: 2906.19888913
+ Worst: 1535.93357955
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.2548178810762145, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99935992636027626, 'long_price': 1.0006404835963905, 'layers': 4, 'adaption': 0.0019622008663966097, 'learner': 3, 'epoch': 20000, 'capital': 1403.0194988965441, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 100.07222097906752, 'risk_aversion': 0.811904443153043, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1403.0194988965441, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.8288850644933833, 'lever': 1, 'decision': -0.21741608205323662}
+Best Account Value: 1413.90553156
+Worst Account Value: 995.571515566
+END VAL: 1403.0194989
+
+Starting Capital: 1000
+Sharpe Ratio: 0.0040600109955
+
+Best Return: 6.48901316847
+Worst Return: -7.34725197256
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 8
+
+ Average End: 2278.19863338
+Best: 2906.19888913
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.6504772692271097, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99675108224957643, 'long_price': 1.0032595076225963, 'layers': 4, 'adaption': 0.12080278815838207, 'learner': 3, 'epoch': 20000, 'capital': 926.48444598885351, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 107.09361399846014, 'risk_aversion': 0.30283079548787206, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2934.0067207416687, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.719859619731438, 'lever': 1, 'decision': 0.64050131977980962}
+Best Account Value: 2934.00672074
+Worst Account Value: 999.142292285
+END VAL: 2934.00672074
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00722815278806
+
+Best Return: 16.401988644
+Worst Return: -14.8947447289
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 9
+
+ Average End: 2343.77944211
+Best: 2934.00672074
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.2498407226489134, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99966538752124012, 'long_price': 1.0003347244817484, 'layers': 4, 'adaption': 0.033223033016223764, 'learner': 3, 'epoch': 20000, 'capital': 0.83791043868212989, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 101.73192735509495, 'risk_aversion': 0.7248059916873587, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1699.4062726086911, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6314893572669615, 'lever': 1, 'decision': 0.76952456205772224}
+Best Account Value: 1701.59870344
+Worst Account Value: 999.332967455
+END VAL: 1699.40627261
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00510711528231
+
+Best Return: 8.81437515447
+Worst Return: -7.55441727567
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 10
+
+ Average End: 2285.20006307
+Best: 2934.00672074
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.249831444725447, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0018780653147303, 'long_price': 0.99812545520283402, 'layers': 4, 'adaption': 0.2672794656939972, 'learner': 3, 'epoch': 20000, 'capital': 4842.9057995497787, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 90.2415953829147, 'risk_aversion': 0.10706168921871564, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 6182.3901604319817, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.3482714086135782, 'lever': 1, 'decision': -0.10723638084141482}
+Best Account Value: 6186.96863501
+Worst Account Value: 984.495107393
+END VAL: 6182.39016043
+
+Starting Capital: 1000
+Sharpe Ratio: 0.0106595081677
+
+Best Return: 32.139292689
+Worst Return: -25.8494265902
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 11
+
+ Average End: 2609.96590452
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.29060595891925195, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0016939594656675, 'long_price': 0.99830890518040949, 'layers': 4, 'adaption': 0.13825662954856655, 'learner': 3, 'epoch': 20000, 'capital': 2225.6912258711377, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 105.7158492736859, 'risk_aversion': 0.36578798700380216, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 4223.3073451371374, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9463521781370988, 'lever': 1, 'decision': 0.54351128139414584}
+Best Account Value: 4227.85702306
+Worst Account Value: 999.97064799
+END VAL: 4223.30734514
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00819801059483
+
+Best Return: 23.7844163376
+Worst Return: -22.3474849724
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 12
+
+ Average End: 2734.06909226
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99973857276824363, 'long_price': 1.0002614955938256, 'layers': 4, 'adaption': 0.016228495888369145, 'learner': 3, 'epoch': 20000, 'capital': 2681.6438882699717, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 92.53155919557967, 'risk_aversion': 0.5306978374699547, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2681.6438882699717, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.4751880777317365, 'lever': 1, 'decision': -0.48341369225133313}
+Best Account Value: 2718.77921345
+Worst Account Value: 999.967223043
+END VAL: 2681.64388827
+
+Starting Capital: 1000
+Sharpe Ratio: 0.0067143472066
+
+Best Return: 13.5137973127
+Worst Return: -15.8642858824
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 13
+
+ Average End: 2730.32443483
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.859840694678251, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0004507006346406, 'long_price': 0.99954950240491136, 'layers': 4, 'adaption': 0.010932986342639424, 'learner': 3, 'epoch': 20000, 'capital': 2606.5396045772727, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 96.1453166518759, 'risk_aversion': 0.5709303338297368, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2606.5396045772727, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.207930159515132, 'lever': 1, 'decision': 0.4015129964601778}
+Best Account Value: 2613.64746401
+Worst Account Value: 961.332187211
+END VAL: 2606.53960458
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00683910079815
+
+Best Return: 11.3795012234
+Worst Return: -12.6071984091
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 14
+
+ Average End: 2722.07211281
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.2353021146745635, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0005656675382526, 'long_price': 0.99943465226061146, 'layers': 4, 'adaption': 0.014183793817509607, 'learner': 3, 'epoch': 20000, 'capital': 535.29965481067984, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 98.86894571538278, 'risk_aversion': 0.6770366696082791, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2236.3374329582402, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9177467681141384, 'lever': 1, 'decision': 0.70188512009514537}
+Best Account Value: 2240.18943676
+Worst Account Value: 985.363842156
+END VAL: 2236.33743296
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00612253475447
+
+Best Return: 11.8976231061
+Worst Return: -10.6448364495
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 15
+
+ Average End: 2691.71369532
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.9983333249383558, 'long_price': 1.0016694575048339, 'layers': 4, 'adaption': 0.16227750735884797, 'learner': 3, 'epoch': 20000, 'capital': 1761.2587817825656, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 113.28477202695363, 'risk_aversion': 0.7282736462514262, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2161.9265647844991, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.8147468578411496, 'lever': 1, 'decision': 0.68579729922368859}
+Best Account Value: 2177.43692493
+Worst Account Value: 971.644701884
+END VAL: 2161.92656478
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00617023311755
+
+Best Return: 10.0899497103
+Worst Return: -9.12867763467
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 16
+
+ Average End: 2660.54974647
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.2951858003515415, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0027664913171668, 'long_price': 0.9972411410421852, 'layers': 4, 'adaption': 0.11403612100974526, 'learner': 3, 'epoch': 20000, 'capital': 2960.2820831461595, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 77.47079905441687, 'risk_aversion': 0.394422659926103, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3043.5117019254844, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.35499198059996884, 'lever': 1, 'decision': -0.72975781897747971}
+Best Account Value: 3076.17719478
+Worst Account Value: 999.963614243
+END VAL: 3043.51170193
+
+Starting Capital: 1000
+Sharpe Ratio: 0.007119801407
+
+Best Return: 18.8933827145
+Worst Return: -15.6964372044
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 17
+
+ Average End: 2681.82541066
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 9.624846721159996, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0003165281511603, 'long_price': 0.99968357200720726, 'layers': 4, 'adaption': 0.018075196402429272, 'learner': 3, 'epoch': 20000, 'capital': 729.58879651150801, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 94.40001381976636, 'risk_aversion': 0.5429000486359921, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2530.0189096964882, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7206153092380715, 'lever': 1, 'decision': 0.64734602382277451}
+Best Account Value: 2533.69754666
+Worst Account Value: 999.97973341
+END VAL: 2530.0189097
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00649081605457
+
+Best Return: 12.5160074527
+Worst Return: -13.6381737987
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 18
+
+ Average End: 2673.83559482
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.2328448638265863, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99794694851893073, 'long_price': 1.00205727517291, 'layers': 4, 'adaption': 0.03429101581848245, 'learner': 3, 'epoch': 20000, 'capital': 2548.2796766323977, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 95.25338890223814, 'risk_aversion': 0.8054498009061787, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2548.2796766323977, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9411896366367576, 'lever': 1, 'decision': -0.10413922378052283}
+Best Account Value: 2565.43518927
+Worst Account Value: 999.221528832
+END VAL: 2548.27967663
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00665563360302
+
+Best Return: 12.5276429992
+Worst Return: -13.3721288291
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 19
+
+ Average End: 2667.55779891
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.24453347230721478, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0001563046376287, 'long_price': 0.999843719789693, 'layers': 4, 'adaption': 0.015821767344138038, 'learner': 3, 'epoch': 20000, 'capital': 2336.904663444061, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 106.78223929165748, 'risk_aversion': 0.6954907446069875, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2336.904663444061, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.35334568627386, 'lever': 1, 'decision': -0.11011688667142551}
+Best Account Value: 2364.91776806
+Worst Account Value: 970.498935662
+END VAL: 2336.90466344
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00642851997314
+
+Best Return: 12.5184485939
+Worst Return: -12.4767753615
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 20
+
+ Average End: 2651.81241151
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.4693114244876299, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0004071543118127, 'long_price': 0.99959301139535262, 'layers': 4, 'adaption': 0.4170431389922889, 'learner': 3, 'epoch': 20000, 'capital': 3690.2757788486197, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 122.66123069304416, 'risk_aversion': 0.7140116753322294, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3690.2757788486197, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6694607586271507, 'lever': 1, 'decision': 0.3858031559162719}
+Best Account Value: 3736.29465765
+Worst Account Value: 999.173378632
+END VAL: 3690.27577885
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00759947605625
+
+Best Return: 18.0183393378
+Worst Return: -21.464436723
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 21
+
+ Average End: 2699.01529184
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 5.042060683839608, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99965217034379117, 'long_price': 1.0003479506837756, 'layers': 4, 'adaption': 0.045358730519056534, 'learner': 3, 'epoch': 20000, 'capital': 3617.2948078567506, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 119.73512529839397, 'risk_aversion': 0.4175842055378971, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3617.2948078567506, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.4287258920752904, 'lever': 1, 'decision': -0.65704579953295872}
+Best Account Value: 3619.37671816
+Worst Account Value: 989.588070414
+END VAL: 3617.29480786
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00762818692711
+
+Best Return: 16.7091413403
+Worst Return: -18.6668801306
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 22
+
+ Average End: 2738.94048819
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.981240695471166, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0003113693246966, 'long_price': 0.9996887275959816, 'layers': 4, 'adaption': 0.02531002196244398, 'learner': 3, 'epoch': 20000, 'capital': 3395.2577889878712, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 82.89118572857568, 'risk_aversion': 0.5820266723602068, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3395.2577889878712, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9747879261286774, 'lever': 1, 'decision': 0.29551161917214064}
+Best Account Value: 3422.7310128
+Worst Account Value: 999.968611415
+END VAL: 3395.25778899
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00803146832476
+
+Best Return: 14.5128220991
+Worst Return: -19.4433404111
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 23
+
+ Average End: 2766.28704239
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.7906973275919769, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.9994786360902137, 'long_price': 1.000521635871904, 'layers': 4, 'adaption': 0.28986868615321165, 'learner': 3, 'epoch': 20000, 'capital': 200.09686799789722, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 68.80100127054102, 'risk_aversion': 0.46077702053736425, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2189.1338801112424, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6026632852145504, 'lever': 1, 'decision': 0.65356594398364509}
+Best Account Value: 2190.26285899
+Worst Account Value: 946.012805691
+END VAL: 2189.13388011
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00630887625989
+
+Best Return: 11.9396280801
+Worst Return: -10.8849500343
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 24
+
+ Average End: 2743.2009159
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.0062027644320186, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0007053291373609, 'long_price': 0.9992951680011849, 'layers': 4, 'adaption': 0.05902430521345023, 'learner': 3, 'epoch': 20000, 'capital': 1646.2574556914906, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 105.02893453943804, 'risk_aversion': 0.7479893802715827, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1646.2574556914906, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9326676396749612, 'lever': 1, 'decision': 0.48071824620836917}
+Best Account Value: 1681.77296059
+Worst Account Value: 999.981710688
+END VAL: 1646.25745569
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00489634125685
+
+Best Return: 7.58400779958
+Worst Return: -8.34109309568
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 25
+
+ Average End: 2701.01078281
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.1996388019660924, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0019389060187067, 'long_price': 0.99806484606290902, 'layers': 4, 'adaption': 0.13716227418496602, 'learner': 3, 'epoch': 20000, 'capital': 2461.9483047062258, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 102.18260616508076, 'risk_aversion': 0.6032193193174759, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2461.9483047062258, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7721962289983954, 'lever': 1, 'decision': 0.46953928536423012}
+Best Account Value: 2484.90987246
+Worst Account Value: 994.992232426
+END VAL: 2461.94830471
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00644530093684
+
+Best Return: 12.3597487708
+Worst Return: -12.6428735901
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 26
+
+ Average End: 2692.15661696
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0003257143722537, 'long_price': 0.99967439168305494, 'layers': 4, 'adaption': 0.17418391973941605, 'learner': 3, 'epoch': 20000, 'capital': 3253.4559481945776, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 79.05434205571234, 'risk_aversion': 0.6335318280314511, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3253.4559481945776, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 1, 'lever': 1, 'decision': -0.41695247743773667}
+Best Account Value: 3284.36901995
+Worst Account Value: 999.968371292
+END VAL: 3253.45594819
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00771575519056
+
+Best Return: 16.4738965435
+Worst Return: -16.4813719405
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 27
+
+ Average End: 2712.20302164
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.7118323043268562, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0003309920864105, 'long_price': 0.99966911743310061, 'layers': 4, 'adaption': 0.46761466866556023, 'learner': 3, 'epoch': 20000, 'capital': 1247.7245083966543, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 102.00577473548145, 'risk_aversion': 0.0001, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3133.1004638754821, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9440770637670364, 'lever': 1, 'decision': 0.76375481448900762}
+Best Account Value: 3136.71891667
+Worst Account Value: 983.573546174
+END VAL: 3133.10046388
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00751095780978
+
+Best Return: 14.0344683757
+Worst Return: -14.2799181464
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 28
+
+ Average End: 2726.71672655
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.274879185921278, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99955227922710033, 'long_price': 1.0004479213165778, 'layers': 4, 'adaption': 0.019741449911215736, 'learner': 3, 'epoch': 20000, 'capital': 1852.2364891935033, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 103.14209219102445, 'risk_aversion': 0.42207626002881893, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1852.2364891935033, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.8490832829465929, 'lever': 1, 'decision': -0.26468207877126754}
+Best Account Value: 1873.61778621
+Worst Account Value: 954.176001162
+END VAL: 1852.23648919
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00445839449917
+
+Best Return: 10.3937482552
+Worst Return: -10.4826845666
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 29
+
+ Average End: 2697.5673853
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.8257709690401824, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99886712580091652, 'long_price': 1.0011341590586187, 'layers': 4, 'adaption': 0.1509891444811459, 'learner': 3, 'epoch': 20000, 'capital': 491.85931498926664, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 88.61241561224435, 'risk_aversion': 0.43410239396749045, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2495.1287672655626, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7963779459273282, 'lever': 1, 'decision': 0.74579630405508524}
+Best Account Value: 2495.12876727
+Worst Account Value: 957.795217876
+END VAL: 2495.12876727
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00645717565784
+
+Best Return: 12.9894511664
+Worst Return: -12.1634122089
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 30
+
+ Average End: 2691.0371073
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.9095096346022709, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99905279951913395, 'long_price': 1.0009480985202404, 'layers': 4, 'adaption': 0.19437478001589867, 'learner': 3, 'epoch': 20000, 'capital': 2604.8751397981914, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 77.93810043018485, 'risk_aversion': 0.5588251689717239, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2604.8751397981914, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.08434597046867734, 'lever': 1, 'decision': 0.2414072404721806}
+Best Account Value: 2616.6656567
+Worst Account Value: 999.003865193
+END VAL: 2604.8751398
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00702683206717
+
+Best Return: 16.9822378711
+Worst Return: -12.3514923082
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 31
+
+ Average End: 2688.34454582
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99988303434832659, 'long_price': 1.0001169793342375, 'layers': 4, 'adaption': 0.11948253958569852, 'learner': 3, 'epoch': 20000, 'capital': 1563.9803450890931, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 109.55899276668578, 'risk_aversion': 0.7458120871806684, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1563.9803450890931, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7445613087128726, 'lever': 1, 'decision': 0.5860317462833019}
+Best Account Value: 1598.31340398
+Worst Account Value: 988.91294471
+END VAL: 1563.98034509
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00412496374264
+
+Best Return: 10.8584225133
+Worst Return: -9.89354005885
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 32
+
+ Average End: 2654.27290337
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.602996426387244, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0002946984663312, 'long_price': 0.99970538835526868, 'layers': 4, 'adaption': 0.08223763296026922, 'learner': 3, 'epoch': 20000, 'capital': 1686.4056795043648, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 110.4748831611782, 'risk_aversion': 0.8040595951743161, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1686.4056795043648, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6963973668254461, 'lever': 1, 'decision': -0.1022006239820706}
+Best Account Value: 1692.88037955
+Worst Account Value: 998.114123804
+END VAL: 1686.4056795
+
+Starting Capital: 1000
+Sharpe Ratio: 0.0053913327038
+
+Best Return: 9.38143868841
+Worst Return: -8.12290426035
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 33
+
+ Average End: 2625.80622032
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.4617827233628973, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0021458091472817, 'long_price': 0.9978587854903993, 'layers': 4, 'adaption': 0.29728844663974413, 'learner': 3, 'epoch': 20000, 'capital': 877.53701444938508, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 84.74149788910277, 'risk_aversion': 0.4779083710630419, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2719.5843324646621, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.3739307241203248, 'lever': 1, 'decision': 0.66319631247633259}
+Best Account Value: 2724.37128322
+Worst Account Value: 989.309462959
+END VAL: 2719.58433246
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00691687011098
+
+Best Return: 15.0255844003
+Worst Return: -14.2832818587
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 34
+
+ Average End: 2628.48559495
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.304108983579688, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99992644055306357, 'long_price': 1.0000735648583268, 'layers': 4, 'adaption': 0.3465667783512954, 'learner': 3, 'epoch': 20000, 'capital': 702.81797499233301, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 102.47990743338616, 'risk_aversion': 0.3370732783535232, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2575.955761971979, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 1, 'lever': 1, 'decision': 0.48811395700760818}
+Best Account Value: 2577.55845115
+Worst Account Value: 998.748986848
+END VAL: 2575.95576197
+
+Starting Capital: 1000
+Sharpe Ratio: 0.0062028782304
+
+Best Return: 13.2232685833
+Worst Return: -13.1946363997
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 35
+
+ Average End: 2627.02643292
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99910414509056611, 'long_price': 1.0008966581850711, 'layers': 4, 'adaption': 0.29808509218310575, 'learner': 3, 'epoch': 20000, 'capital': 3463.6626160641154, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 109.83252088060242, 'risk_aversion': 0.34063681839500376, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3564.5721347182625, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6342746080605153, 'lever': 1, 'decision': -0.69759586100398308}
+Best Account Value: 3565.85308668
+Worst Account Value: 996.518339806
+END VAL: 3564.57213472
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00750333677961
+
+Best Return: 20.0435491569
+Worst Return: -19.0425498808
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 36
+
+ Average End: 2652.36550594
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.3682252537052828, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0000113267436592, 'long_price': 0.99998867338463437, 'layers': 4, 'adaption': 0.08756609767587481, 'learner': 3, 'epoch': 20000, 'capital': 2151.6366499669807, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 90.60929231033771, 'risk_aversion': 0.5641178270612435, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2151.6366499669807, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7259576340619579, 'lever': 1, 'decision': -0.67989675589201504}
+Best Account Value: 2161.31443422
+Worst Account Value: 988.881355871
+END VAL: 2151.63664997
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00577086981238
+
+Best Return: 11.3909453879
+Worst Return: -11.2452435372
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 37
+
+ Average End: 2639.18843079
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99895840818246873, 'long_price': 1.001042677862261, 'layers': 4, 'adaption': 0.22401349701762144, 'learner': 3, 'epoch': 20000, 'capital': 2201.4149555982958, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 107.81548102890822, 'risk_aversion': 0.7243283704667172, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2201.4149555982958, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.8799624490367455, 'lever': 1, 'decision': -0.50199726554576563}
+Best Account Value: 2205.06298809
+Worst Account Value: 999.97295165
+END VAL: 2201.4149556
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00597297312353
+
+Best Return: 10.9983544436
+Worst Return: -9.4210804082
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 38
+
+ Average End: 2627.96346988
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.9982914580646991, 'long_price': 1.0017114660468127, 'layers': 4, 'adaption': 0.0001, 'learner': 3, 'epoch': 20000, 'capital': 2462.8749315464406, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 77.40823396167455, 'risk_aversion': 0.3270442431652648, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2540.7416652754873, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7336285663166753, 'lever': 1, 'decision': -0.64230598614688594}
+Best Account Value: 2542.16481583
+Worst Account Value: 955.200448309
+END VAL: 2540.74166528
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00671191679502
+
+Best Return: 12.9415314588
+Worst Return: -12.1780038556
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 39
+
+ Average End: 2625.78292477
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.09759940679844903, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99966055227741135, 'long_price': 1.0003395629864711, 'layers': 4, 'adaption': 0.297019795759525, 'learner': 3, 'epoch': 20000, 'capital': 2027.6135286914932, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 104.00418070649559, 'risk_aversion': 0.2963709243157287, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3354.0637892115537, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.41404948289179166, 'lever': 1, 'decision': -0.29473997193595208}
+Best Account Value: 3355.02002666
+Worst Account Value: 999.605625196
+END VAL: 3354.06378921
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00771015723243
+
+Best Return: 17.5943495273
+Worst Return: -15.3722571454
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 40
+
+ Average End: 2643.54587268
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 6.1204556019266985, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99866126025922597, 'long_price': 1.0013405343674056, 'layers': 4, 'adaption': 0.33521328915978926, 'learner': 3, 'epoch': 20000, 'capital': 2082.1385936170095, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 86.78783324342523, 'risk_aversion': 0.51415028857787, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3885.5528960127067, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.16375020671515972, 'lever': 1, 'decision': 0.57156529126144207}
+Best Account Value: 3885.96850395
+Worst Account Value: 999.892756434
+END VAL: 3885.55289601
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00909828887607
+
+Best Return: 16.3768106541
+Worst Return: -15.1006833899
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 41
+
+ Average End: 2673.11746848
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.4711444018595947, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99998767279151879, 'long_price': 1.0000123273604431, 'layers': 4, 'adaption': 0.20902162916529818, 'learner': 3, 'epoch': 20000, 'capital': 3195.7401727170004, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 120.64459296947122, 'risk_aversion': 0.2863644924316795, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3195.7401727170004, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6895118657965752, 'lever': 1, 'decision': -0.16580653858671859}
+Best Account Value: 3295.84051788
+Worst Account Value: 983.844002953
+END VAL: 3195.74017272
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00717611885312
+
+Best Return: 16.1233447749
+Worst Return: -16.3460199991
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 42
+
+ Average End: 2685.27148485
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.1899104899665804, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0001581280873315, 'long_price': 0.99984189691320713, 'layers': 4, 'adaption': 0.04259381644799372, 'learner': 3, 'epoch': 20000, 'capital': 2529.9526489067321, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 90.5550322592859, 'risk_aversion': 0.59920560096146, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2529.9526489067321, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9806096821583612, 'lever': 1, 'decision': -0.4328466453563235}
+Best Account Value: 2533.33059706
+Worst Account Value: 995.670988307
+END VAL: 2529.95264891
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00727171414591
+
+Best Return: 12.0686393829
+Worst Return: -11.6429613375
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 43
+
+ Average End: 2681.74151131
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.44057577805639336, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0016258595716585, 'long_price': 0.9983767795568359, 'layers': 4, 'adaption': 0.2500119379744987, 'learner': 3, 'epoch': 20000, 'capital': 1917.8147846561444, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 110.5878420306487, 'risk_aversion': 0.7121735453671305, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1917.8147846561444, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.0001, 'lever': 1, 'decision': 0.19269912106769616}
+Best Account Value: 1938.85494051
+Worst Account Value: 989.499252599
+END VAL: 1917.81478466
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00554062453157
+
+Best Return: 9.7439436701
+Worst Return: -10.2490818605
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 44
+
+ Average End: 2664.76536183
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.7032532223980925, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0013066753168032, 'long_price': 0.99869502985547387, 'layers': 4, 'adaption': 0.13299856850367892, 'learner': 3, 'epoch': 20000, 'capital': 707.46027138230943, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 116.75689023169669, 'risk_aversion': 0.2554261151022815, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2705.8490261231127, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.8884629015892312, 'lever': 1, 'decision': 0.59889982887455984}
+Best Account Value: 2713.11795839
+Worst Account Value: 999.515550835
+END VAL: 2705.84902612
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00675302191657
+
+Best Return: 17.3224459941
+Worst Return: -16.3974169979
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 45
+
+ Average End: 2665.65848496
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99952345484845417, 'long_price': 1.0004767723551, 'layers': 4, 'adaption': 0.10304087818298814, 'learner': 3, 'epoch': 20000, 'capital': 1690.5312500359332, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 84.92304494685337, 'risk_aversion': 0.6950252001357886, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1990.6742817424633, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 1, 'lever': 1, 'decision': 0.66534196311026217}
+Best Account Value: 2000.17707014
+Worst Account Value: 984.714956349
+END VAL: 1990.67428174
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00623091814816
+
+Best Return: 9.79822394271
+Worst Return: -13.0057006439
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 46
+
+ Average End: 2651.29711894
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.7436105031972973, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99946121308260583, 'long_price': 1.0005390773652261, 'layers': 4, 'adaption': 0.0001, 'learner': 3, 'epoch': 20000, 'capital': 1972.8144607136151, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 123.29150741666373, 'risk_aversion': 0.3546273427309109, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1972.8144607136151, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 1, 'lever': 1, 'decision': 0.0560963591141109}
+Best Account Value: 2072.84260722
+Worst Account Value: 976.338751773
+END VAL: 1972.81446071
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00505433828076
+
+Best Return: 10.8661406229
+Worst Return: -9.48874572529
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 47
+
+ Average End: 2637.16206356
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.2731458980482255, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0006141195336398, 'long_price': 0.99938625737769327, 'layers': 4, 'adaption': 0.06416748195121814, 'learner': 3, 'epoch': 20000, 'capital': 237.38007821766115, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 108.09130332581285, 'risk_aversion': 0.5441853483155157, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2237.1519792304252, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 1, 'lever': 1, 'decision': 0.72528259230015357}
+Best Account Value: 2241.49925322
+Worst Account Value: 998.240197503
+END VAL: 2237.15197923
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00623876439768
+
+Best Return: 10.4508416763
+Worst Return: -10.5146812004
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 48
+
+ Average End: 2628.99859245
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.8900028886445035, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99941256875325746, 'long_price': 1.0005877765250395, 'layers': 4, 'adaption': 0.05223451124256575, 'learner': 3, 'epoch': 20000, 'capital': 1640.6757008555323, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 100.88795026172254, 'risk_aversion': 0.0008570286857629145, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 5332.8445962329279, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6511162633224914, 'lever': 1, 'decision': 0.64786101742818347}
+Best Account Value: 5334.02012752
+Worst Account Value: 990.307655561
+END VAL: 5332.84459623
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00959088638356
+
+Best Return: 25.8943448996
+Worst Return: -24.4964713962
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 49
+
+ Average End: 2683.07551253
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.991012783497113, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0006554814458954, 'long_price': 0.99934494792858353, 'layers': 4, 'adaption': 0.2296230033439564, 'learner': 3, 'epoch': 20000, 'capital': 1070.9842628145343, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 87.821487080234, 'risk_aversion': 0.4835808207753022, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3070.6735036196296, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6926915662661093, 'lever': 1, 'decision': 0.74515983013900355}
+Best Account Value: 3073.02821679
+Worst Account Value: 999.969532863
+END VAL: 3070.67350362
+
+Starting Capital: 1000
+Sharpe Ratio: 0.0077982504933
+
+Best Return: 14.5080102754
+Worst Return: -14.3131891668
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 50
+
+ Average End: 2690.67547314
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.7405877164151042, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.999965525628151, 'long_price': 1.0000344755603723, 'layers': 4, 'adaption': 0.2674800717183694, 'learner': 3, 'epoch': 20000, 'capital': 1801.5485423835848, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 73.63223702561204, 'risk_aversion': 0.4084968522980338, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1801.5485423835848, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.5945340920896777, 'lever': 1, 'decision': -0.42294544398137124}
+Best Account Value: 1817.82662897
+Worst Account Value: 985.586534249
+END VAL: 1801.54854238
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00463601098992
+
+Best Return: 9.44353501061
+Worst Return: -9.08233670998
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 51
+
+ Average End: 2673.57687831
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.549152318902816, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.000890442821045, 'long_price': 0.99911034936197896, 'layers': 4, 'adaption': 0.0001, 'learner': 3, 'epoch': 20000, 'capital': 1045.2835869055605, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 95.34424886265484, 'risk_aversion': 0.5309832550133163, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2586.910855971094, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7421219114852527, 'lever': 1, 'decision': 0.6355047478036373}
+Best Account Value: 2590.82769769
+Worst Account Value: 980.810869494
+END VAL: 2586.91085597
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00704370280468
+
+Best Return: 13.7937030454
+Worst Return: -12.1589001098
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 52
+
+ Average End: 2671.94167034
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.9325332304975489, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0008124914704113, 'long_price': 0.9991881681360536, 'layers': 4, 'adaption': 0.023328352540818702, 'learner': 3, 'epoch': 20000, 'capital': 544.00473826205393, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 77.89461214793727, 'risk_aversion': 0.715660706342014, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2443.4614458886917, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7389633313025963, 'lever': 1, 'decision': 0.74859816767502563}
+Best Account Value: 2450.0581693
+Worst Account Value: 977.030400528
+END VAL: 2443.46144589
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00638064067289
+
+Best Return: 13.7025796107
+Worst Return: -11.897417883
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 53
+
+ Average End: 2667.71055508
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.416484010901905, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.999631439239833, 'long_price': 1.0003686966472836, 'layers': 4, 'adaption': 0.20287031281852386, 'learner': 3, 'epoch': 20000, 'capital': 2946.8032271582179, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 82.99016597213499, 'risk_aversion': 0.6375214201755641, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2946.8032271582179, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.13311115540680984, 'lever': 1, 'decision': -0.12580556691568504}
+Best Account Value: 2985.8329581
+Worst Account Value: 985.991634122
+END VAL: 2946.80322716
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00731743957052
+
+Best Return: 16.6646785922
+Worst Return: -16.1996180743
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 54
+
+ Average End: 2672.7849673
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 5.941925986190565, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99989206860996127, 'long_price': 1.0001079430404811, 'layers': 4, 'adaption': 0.32177437048875623, 'learner': 3, 'epoch': 20000, 'capital': 0.8168790457681353, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 89.83376033766139, 'risk_aversion': 0.4903667030444819, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3160.1578711106476, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.37107722585380043, 'lever': 1, 'decision': 0.60744798600866823}
+Best Account Value: 3161.74935052
+Worst Account Value: 999.988935192
+END VAL: 3160.15787111
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00815951653678
+
+Best Return: 18.7476095619
+Worst Return: -14.3624178897
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 55
+
+ Average End: 2681.48805486
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.1715269181334695, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0016620125829194, 'long_price': 0.99834074511957005, 'layers': 4, 'adaption': 0.0001, 'learner': 3, 'epoch': 20000, 'capital': 2194.1565643265226, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 79.16490897475074, 'risk_aversion': 0.2959406176044562, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 4191.8363953107819, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7984670537350356, 'lever': 1, 'decision': 0.60627516593818509}
+Best Account Value: 4198.23632276
+Worst Account Value: 999.963979361
+END VAL: 4191.83639531
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00877317516811
+
+Best Return: 20.0824946984
+Worst Return: -19.4684155291
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 56
+
+ Average End: 2707.98539417
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.9997482061258206, 'long_price': 1.0002518572903023, 'layers': 4, 'adaption': 0.0077661812654962895, 'learner': 3, 'epoch': 20000, 'capital': 1698.4608128257084, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 120.75376067503011, 'risk_aversion': 0.26965056000642057, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3602.940349106444, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 1, 'lever': 1, 'decision': 0.58730199918510662}
+Best Account Value: 3604.465285
+Worst Account Value: 993.532943784
+END VAL: 3602.94034911
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00768482191735
+
+Best Return: 19.6183067355
+Worst Return: -19.7461291471
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 57
+
+ Average End: 2723.41565201
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.7419054985848608, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99981423026679372, 'long_price': 1.0001858042500122, 'layers': 4, 'adaption': 0.23818626181600921, 'learner': 3, 'epoch': 20000, 'capital': 3516.2602967281878, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 110.74227243977077, 'risk_aversion': 0.42043915789156044, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3582.2480359257961, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7062488177106556, 'lever': 1, 'decision': -0.53872983020688403}
+Best Account Value: 3583.41386513
+Worst Account Value: 986.626599938
+END VAL: 3582.24803593
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00782478066845
+
+Best Return: 17.5972774231
+Worst Return: -16.8202695118
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 58
+
+ Average End: 2737.9721331
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.400219014809305, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0001130891501659, 'long_price': 0.99988692363754372, 'layers': 4, 'adaption': 0.03952891743860725, 'learner': 3, 'epoch': 20000, 'capital': 0.41393553489368318, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 98.75256284186726, 'risk_aversion': 0.6361401173490134, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1720.2194441914689, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.3933461594843167, 'lever': 1, 'decision': 0.71506270312125952}
+Best Account Value: 1724.07076777
+Worst Account Value: 995.442964481
+END VAL: 1720.21944419
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00471947562865
+
+Best Return: 10.2824314877
+Worst Return: -9.66387639508
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 59
+
+ Average End: 2721.00958828
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 8.445695028003927, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99989278582166763, 'long_price': 1.000107225674445, 'layers': 4, 'adaption': 0.10211168225718753, 'learner': 3, 'epoch': 20000, 'capital': 2404.7543336069111, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 100.52618139410623, 'risk_aversion': 0.6044170016825829, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2447.7589443109123, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.37099146074924805, 'lever': 1, 'decision': -0.38143425007156284}
+Best Account Value: 2453.1805278
+Worst Account Value: 999.962795565
+END VAL: 2447.75894431
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00677916518457
+
+Best Return: 11.9068629124
+Worst Return: -12.621079197
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 60
+
+ Average End: 2716.53006953
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.9065629731150979, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99913658747777256, 'long_price': 1.000864158647625, 'layers': 4, 'adaption': 0.0001, 'learner': 3, 'epoch': 20000, 'capital': 447.95578763487782, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 102.5488239439568, 'risk_aversion': 0.7014333657783065, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2191.4611519990403, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6177208200094187, 'lever': 1, 'decision': 0.75020465280717075}
+Best Account Value: 2193.7345986
+Worst Account Value: 999.980195745
+END VAL: 2191.461152
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00592060798158
+
+Best Return: 12.2224589008
+Worst Return: -13.1714184659
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 61
+
+ Average End: 2708.06121602
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99864473705988621, 'long_price': 1.0013571021703913, 'layers': 4, 'adaption': 0.16534785890569398, 'learner': 3, 'epoch': 20000, 'capital': 2717.8196622034525, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 107.34998536167215, 'risk_aversion': 0.7750896566080414, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2717.8196622034525, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.5432084118325946, 'lever': 1, 'decision': 0.2915472201866689}
+Best Account Value: 2753.13316855
+Worst Account Value: 988.311980361
+END VAL: 2717.8196622
+
+Starting Capital: 1000
+Sharpe Ratio: 0.0070334428468
+
+Best Return: 13.2491195364
+Worst Return: -15.7082298325
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 62
+
+ Average End: 2708.21611199
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.3021813109124514, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99873667558135237, 'long_price': 1.0012649224260362, 'layers': 4, 'adaption': 0.07477444903573757, 'learner': 3, 'epoch': 20000, 'capital': 1884.0629289227729, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 92.67451470887637, 'risk_aversion': 0.627346925149425, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1884.0629289227729, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7240576385802963, 'lever': 1, 'decision': -0.26793950064999644}
+Best Account Value: 1901.95767356
+Worst Account Value: 993.194058025
+END VAL: 1884.06292892
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00529434319171
+
+Best Return: 10.4556441636
+Worst Return: -11.1401865701
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 63
+
+ Average End: 2695.33871851
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.2137932464255798, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99987548401766202, 'long_price': 1.0001245314884986, 'layers': 4, 'adaption': 0.0001, 'learner': 3, 'epoch': 20000, 'capital': 543.21982698847876, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 97.5874907005068, 'risk_aversion': 0.5125349176361989, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2519.4659012097518, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.4173247336270117, 'lever': 1, 'decision': 0.66048410428328541}
+Best Account Value: 2520.55153635
+Worst Account Value: 998.993452102
+END VAL: 2519.46590121
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00615590125492
+
+Best Return: 12.3044828906
+Worst Return: -12.8288338522
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 64
+
+ Average End: 2692.63298286
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.5041712923317057, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99959028878990619, 'long_price': 1.0004098791421732, 'layers': 4, 'adaption': 0.07744253958451192, 'learner': 3, 'epoch': 20000, 'capital': 3143.405467562231, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 103.46895418464028, 'risk_aversion': 0.5522987827779906, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3143.405467562231, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.3875739979591949, 'lever': 1, 'decision': 0.17634059698608529}
+Best Account Value: 3176.71429342
+Worst Account Value: 999.971040498
+END VAL: 3143.40546756
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00732199302572
+
+Best Return: 14.109579945
+Worst Return: -14.7902402101
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 65
+
+ Average End: 2699.46286899
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.889715076615219, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99969906279302945, 'long_price': 1.0003010277974351, 'layers': 4, 'adaption': 0.13561322980467821, 'learner': 3, 'epoch': 20000, 'capital': 1239.8020308148048, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 102.36444357437475, 'risk_aversion': 0.28453163556130356, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3222.3986679093214, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9163537758453904, 'lever': 1, 'decision': 0.73381544385817432}
+Best Account Value: 3226.00344148
+Worst Account Value: 994.400954127
+END VAL: 3222.39866791
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00728598679125
+
+Best Return: 17.1171693388
+Worst Return: -16.2497703754
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 66
+
+ Average End: 2707.26788091
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.2449420255165856, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0000858806372677, 'long_price': 0.99991412673758284, 'layers': 4, 'adaption': 0.21598407123662852, 'learner': 3, 'epoch': 20000, 'capital': 3259.347271148672, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 55.96855868328855, 'risk_aversion': 0.30783951000139276, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3276.3487311195054, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.31871623169929114, 'lever': 1, 'decision': -0.53596927961018881}
+Best Account Value: 3288.73126388
+Worst Account Value: 985.393227747
+END VAL: 3276.34873112
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00823148703927
+
+Best Return: 13.9287571941
+Worst Return: -15.0921892788
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 67
+
+ Average End: 2715.63671694
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.2107942034910026, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0022479564292064, 'long_price': 0.99775708554476339, 'layers': 4, 'adaption': 0.0001, 'learner': 3, 'epoch': 20000, 'capital': 1934.1527392796518, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 105.85947160610462, 'risk_aversion': 0.6896315289929662, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1934.1527392796518, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.2524394702081959, 'lever': 1, 'decision': 0.22923153995605761}
+Best Account Value: 1981.75983446
+Worst Account Value: 999.004280528
+END VAL: 1934.15273928
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00546129312727
+
+Best Return: 11.4804139284
+Worst Return: -11.5536956476
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 68
+
+ Average End: 2704.3108622
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.297424344503797, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99755579636381131, 'long_price': 1.0024501924053753, 'layers': 4, 'adaption': 0.131516387449372, 'learner': 3, 'epoch': 20000, 'capital': 2640.7065269346153, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 110.47682427751602, 'risk_aversion': 0.7682816891437361, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2640.7065269346153, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.29291429228350657, 'lever': 1, 'decision': 0.56551880756685902}
+Best Account Value: 2650.80187571
+Worst Account Value: 985.535778237
+END VAL: 2640.70652693
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00738336179597
+
+Best Return: 13.1909632188
+Worst Return: -13.1000641253
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 69
+
+ Average End: 2703.40222883
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.968281538932205, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99878284524767302, 'long_price': 1.0012186380233885, 'layers': 4, 'adaption': 0.16384534780501023, 'learner': 3, 'epoch': 20000, 'capital': 4168.9003938965952, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 111.65806130247495, 'risk_aversion': 0.04806456075284301, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 4168.9003938965952, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.328020878026122, 'lever': 1, 'decision': -0.21052703875487339}
+Best Account Value: 4170.83782902
+Worst Account Value: 980.435970053
+END VAL: 4168.9003939
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00852552256975
+
+Best Return: 21.3003199373
+Worst Return: -19.6310968053
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 70
+
+ Average End: 2724.04304806
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 5.439436180144831, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99948241074985267, 'long_price': 1.0005178572875124, 'layers': 4, 'adaption': 0.002372112816137922, 'learner': 3, 'epoch': 20000, 'capital': 1901.6373076885545, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 97.80393157108055, 'risk_aversion': 0.6711604973675679, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1901.6373076885545, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.8477649161261726, 'lever': 1, 'decision': 0.38892762039107243}
+Best Account Value: 1922.06469256
+Worst Account Value: 976.749093558
+END VAL: 1901.63730769
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00524583811578
+
+Best Return: 9.94399625524
+Worst Return: -9.64546507716
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 71
+
+ Average End: 2712.62074611
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.8675882063329136, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99962326996037643, 'long_price': 1.0003768720186341, 'layers': 4, 'adaption': 0.0001, 'learner': 3, 'epoch': 20000, 'capital': 1826.1529981823519, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 109.9812689094613, 'risk_aversion': 0.7110560054435222, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1826.1529981823519, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7537475865797515, 'lever': 1, 'decision': 0.52128483193759634}
+Best Account Value: 1860.68579369
+Worst Account Value: 999.919510078
+END VAL: 1826.15299818
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00545072383441
+
+Best Return: 9.27202593313
+Worst Return: -10.3725495348
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 72
+
+ Average End: 2700.4773523
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.16497545366165037, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99962198208059516, 'long_price': 1.0003781608709905, 'layers': 4, 'adaption': 0.16344974682671115, 'learner': 3, 'epoch': 20000, 'capital': 3093.5271300381573, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 85.21027048526163, 'risk_aversion': 0.4972852419786031, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3093.5271300381573, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.8870890063596817, 'lever': 1, 'decision': -0.3487064596179138}
+Best Account Value: 3121.76270133
+Worst Account Value: 988.928301074
+END VAL: 3093.52713004
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00715449250373
+
+Best Return: 18.7016129484
+Worst Return: -16.9313634451
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 73
+
+ Average End: 2705.78883579
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.2715251571828161, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99907702777565632, 'long_price': 1.0009238248890564, 'layers': 4, 'adaption': 0.117454516752458, 'learner': 3, 'epoch': 20000, 'capital': 0.20448755067408486, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 89.83729164787057, 'risk_aversion': 0.6490574641493523, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2208.2424452559326, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.4670988580965515, 'lever': 1, 'decision': 0.67458977535034093}
+Best Account Value: 2210.0362711
+Worst Account Value: 993.435902253
+END VAL: 2208.24244526
+
+Starting Capital: 1000
+Sharpe Ratio: 0.0063578092571
+
+Best Return: 10.8759600641
+Worst Return: -12.5796459018
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 74
+
+ Average End: 2699.15488391
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.741002363663385, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.9998601763989613, 'long_price': 1.0001398431544122, 'layers': 4, 'adaption': 0.1887125631733245, 'learner': 3, 'epoch': 20000, 'capital': 1258.2677880992062, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 94.77932386136426, 'risk_aversion': 0.3857772150615214, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3240.5449572312509, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.5138087545691552, 'lever': 1, 'decision': 0.78128131263537393}
+Best Account Value: 3243.36814801
+Worst Account Value: 999.36232671
+END VAL: 3240.54495723
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00773062635538
+
+Best Return: 20.3356198716
+Worst Return: -14.8336098275
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 75
+
+ Average End: 2706.27843751
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.28847523586762075, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0027750405363391, 'long_price': 0.99723263900260739, 'layers': 4, 'adaption': 0.010564320791673895, 'learner': 3, 'epoch': 20000, 'capital': 262.45897797316348, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 107.74674384184675, 'risk_aversion': 0.7165191206128492, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2257.9214886173809, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9944929283596415, 'lever': 1, 'decision': 0.75125735481731215}
+Best Account Value: 2266.80481167
+Worst Account Value: 996.700088387
+END VAL: 2257.92148862
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00651239645445
+
+Best Return: 11.2606684047
+Worst Return: -10.1441537773
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 76
+
+ Average End: 2700.45561999
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.5006051571160077, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0005684542268956, 'long_price': 0.99943186872972656, 'layers': 4, 'adaption': 0.4160975651762031, 'learner': 3, 'epoch': 20000, 'capital': 1816.8106947470087, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 94.5533972637291, 'risk_aversion': 0.5389456389634335, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1816.8106947470087, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.8592813944843828, 'lever': 1, 'decision': -0.34785599476169526}
+Best Account Value: 1895.25547231
+Worst Account Value: 999.981633881
+END VAL: 1816.81069475
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00512857391477
+
+Best Return: 8.83463975634
+Worst Return: -8.60452164276
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 77
+
+ Average End: 2689.1268389
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 5.077767990525091, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99963301150060302, 'long_price': 1.0003671232294, 'layers': 4, 'adaption': 0.12089700106474664, 'learner': 3, 'epoch': 20000, 'capital': 3622.1208788244135, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 116.95046787483878, 'risk_aversion': 0.31404679569318467, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3741.077207192985, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7233511785480043, 'lever': 1, 'decision': -0.56755028555484077}
+Best Account Value: 3796.37334409
+Worst Account Value: 997.955266102
+END VAL: 3741.07720719
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00834925995115
+
+Best Return: 18.3409989869
+Worst Return: -18.7337951389
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 78
+
+ Average End: 2702.44266634
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.9730633330425094, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0015444243298603, 'long_price': 0.99845795723849817, 'layers': 4, 'adaption': 0.09169288561898999, 'learner': 3, 'epoch': 20000, 'capital': 2991.7864663643936, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 100.76558509716948, 'risk_aversion': 0.607335618511606, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3047.8729541268658, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6348807009101515, 'lever': 1, 'decision': -0.5741017043057719}
+Best Account Value: 3071.72640896
+Worst Account Value: 999.005978412
+END VAL: 3047.87295413
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00735190397553
+
+Best Return: 17.731450957
+Worst Return: -16.1473814088
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 79
+
+ Average End: 2706.76054494
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.5376050349984934, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0010807253461014, 'long_price': 0.99892044136028313, 'layers': 4, 'adaption': 0.22830497732523647, 'learner': 3, 'epoch': 20000, 'capital': 3759.9003856105205, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 105.83859394127117, 'risk_aversion': 0.4874521567061831, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 5487.0338287224504, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.44961433168984816, 'lever': 1, 'decision': -0.3005274404265374}
+Best Account Value: 5490.86550714
+Worst Account Value: 999.984420622
+END VAL: 5487.03382872
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00969100740312
+
+Best Return: 30.8442252689
+Worst Return: -26.8665319658
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 80
+
+ Average End: 2741.08490647
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.838359775917116, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0000329959587873, 'long_price': 0.9999670051299101, 'layers': 4, 'adaption': 0.01385542367065588, 'learner': 3, 'epoch': 20000, 'capital': 2349.4069129853324, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 70.07611415302198, 'risk_aversion': 0.548444937729286, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2349.4069129853324, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6174143303195537, 'lever': 1, 'decision': 0.19222031546189131}
+Best Account Value: 2367.6209376
+Worst Account Value: 999.960444561
+END VAL: 2349.40691299
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00684562910087
+
+Best Return: 12.459560908
+Worst Return: -10.9271667999
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 81
+
+ Average End: 2736.30834557
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.3780562107762675, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0009337616139327, 'long_price': 0.99906710948342181, 'layers': 4, 'adaption': 0.04345241769043433, 'learner': 3, 'epoch': 20000, 'capital': 3845.234067708177, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 121.06513191664884, 'risk_aversion': 0.5635123152863984, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3908.2928946898546, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.0001, 'lever': 1, 'decision': -0.73806988434313636}
+Best Account Value: 3954.53370222
+Worst Account Value: 993.277436157
+END VAL: 3908.29289469
+
+Starting Capital: 1000
+Sharpe Ratio: 0.0085622491569
+
+Best Return: 17.6797740509
+Worst Return: -17.4238070748
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 82
+
+ Average End: 2750.42864135
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 6.299803770294149, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99922964624946187, 'long_price': 1.000770947652954, 'layers': 4, 'adaption': 0.3175341538624649, 'learner': 3, 'epoch': 20000, 'capital': 3458.4122238462064, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 58.1828906177988, 'risk_aversion': 0.2798463281761248, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 4133.93261351195, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.5467330800568851, 'lever': 1, 'decision': 0.26326160637480922}
+Best Account Value: 4134.63810406
+Worst Account Value: 999.967592407
+END VAL: 4133.93261351
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00923183784656
+
+Best Return: 16.7622293192
+Worst Return: -15.7173876421
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 83
+
+ Average End: 2766.89892673
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.1185186256335666, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99971500235198973, 'long_price': 1.0002850788948248, 'layers': 4, 'adaption': 0.07193656939735917, 'learner': 3, 'epoch': 20000, 'capital': 3872.7233502783429, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 105.31687724974645, 'risk_aversion': 0.27770303181261674, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3872.7233502783429, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.4810955796880085, 'lever': 1, 'decision': -0.055762304136079584}
+Best Account Value: 3930.31464551
+Worst Account Value: 999.113572847
+END VAL: 3872.72335028
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00815463657922
+
+Best Return: 22.5582899804
+Worst Return: -23.5465856509
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 84
+
+ Average End: 2779.90862583
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.6749343545169258, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99965954916644961, 'long_price': 1.0003405667797944, 'layers': 4, 'adaption': 0.2636883424684635, 'learner': 3, 'epoch': 20000, 'capital': 2037.3075776448459, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 84.52921895437254, 'risk_aversion': 0.0001, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3979.9689583312065, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.04664436941506275, 'lever': 1, 'decision': 0.30801541886355144}
+Best Account Value: 3980.60048316
+Worst Account Value: 993.410563829
+END VAL: 3979.96895833
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00801046812905
+
+Best Return: 19.6443631555
+Worst Return: -23.3861786477
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 85
+
+ Average End: 2793.86281574
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 4.988263252489319, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99926209394192267, 'long_price': 1.0007384509655184, 'layers': 4, 'adaption': 0.1825825197215976, 'learner': 3, 'epoch': 20000, 'capital': 2787.7385961449932, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 115.25353611848769, 'risk_aversion': 0.6719730002057454, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2787.7385961449932, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9915619303796714, 'lever': 1, 'decision': -0.46273836126805157}
+Best Account Value: 2816.4112308
+Worst Account Value: 993.784414056
+END VAL: 2787.73859614
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00741925655183
+
+Best Return: 13.8952224911
+Worst Return: -12.7812925184
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 86
+
+ Average End: 2793.79242241
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 3.7787364174127664, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99927270661072642, 'long_price': 1.0007278227299337, 'layers': 4, 'adaption': 0.4485609865347944, 'learner': 3, 'epoch': 20000, 'capital': 1333.5627261500179, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 117.42023827444021, 'risk_aversion': 0.16064614484559456, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2898.7010408996339, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7521963211805571, 'lever': 1, 'decision': 0.041174457195872954}
+Best Account Value: 2899.03834341
+Worst Account Value: 992.873000689
+END VAL: 2898.7010409
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00712756851328
+
+Best Return: 11.5800825203
+Worst Return: -14.1693269053
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 87
+
+ Average End: 2794.98456581
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.1950139103261312, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0004899523416271, 'long_price': 0.99951028759411287, 'layers': 4, 'adaption': 0.03773293196119901, 'learner': 3, 'epoch': 20000, 'capital': 2615.4962888250161, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 97.64228559088195, 'risk_aversion': 0.5483225157140019, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2615.4962888250161, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.9041711698108694, 'lever': 1, 'decision': -0.18782112241586499}
+Best Account Value: 2655.75287051
+Worst Account Value: 999.973855794
+END VAL: 2615.49628883
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00698798579339
+
+Best Return: 14.3098100819
+Worst Return: -13.8847264266
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 88
+
+ Average End: 2792.96784359
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.5056110525593334, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0008270546023841, 'long_price': 0.99917362885167749, 'layers': 4, 'adaption': 0.2751261315118884, 'learner': 3, 'epoch': 20000, 'capital': 2370.4770056844518, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 74.02382727120724, 'risk_aversion': 0.5300821897186672, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 4168.9895376174718, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.32038071243583915, 'lever': 1, 'decision': 0.43206768501011195}
+Best Account Value: 4171.79911132
+Worst Account Value: 994.091987482
+END VAL: 4168.98953762
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00897725240463
+
+Best Return: 20.7762026592
+Worst Return: -21.1686260287
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 89
+
+ Average End: 2808.25697353
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.3543394479896542, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0009971910070439, 'long_price': 0.99900380239225173, 'layers': 4, 'adaption': 0.029621903359257847, 'learner': 3, 'epoch': 20000, 'capital': 3737.5939338111248, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 100.3233227096093, 'risk_aversion': 0.6179115319880295, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3737.5939338111248, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.6307035811980383, 'lever': 1, 'decision': 0.3410936617236861}
+Best Account Value: 3770.97075503
+Worst Account Value: 998.228002852
+END VAL: 3737.59393381
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00804446871306
+
+Best Return: 17.0445366707
+Worst Return: -18.8271964278
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 90
+
+ Average End: 2818.4694676
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0931912631102389, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0006122319027573, 'long_price': 0.99938814269580423, 'layers': 4, 'adaption': 0.3093766105533946, 'learner': 3, 'epoch': 20000, 'capital': 2244.8419272613774, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 131.43470341414852, 'risk_aversion': 0.7005409807331442, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2244.8419272613774, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.7636207390927204, 'lever': 1, 'decision': -0.14199333022141636}
+Best Account Value: 2286.80956854
+Worst Account Value: 988.179144138
+END VAL: 2244.84192726
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00595497072955
+
+Best Return: 12.2844934114
+Worst Return: -10.4763667214
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 91
+
+ Average End: 2812.23438564
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.22556974919008574, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99935066680785367, 'long_price': 1.0006497550996993, 'layers': 4, 'adaption': 0.0001, 'learner': 3, 'epoch': 20000, 'capital': 2016.9365588671271, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 104.87173494074511, 'risk_aversion': 0.5967468541688116, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2016.9365588671271, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.0001, 'lever': 1, 'decision': 0.35338557599360593}
+Best Account Value: 2038.31037617
+Worst Account Value: 959.385142573
+END VAL: 2016.93655887
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00540447253649
+
+Best Return: 10.1042737049
+Worst Return: -11.1339993805
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 92
+
+ Average End: 2803.6827961
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0005029008030175, 'long_price': 0.99949735197907574, 'layers': 4, 'adaption': 0.0962874944382466, 'learner': 3, 'epoch': 20000, 'capital': 2792.7343392897069, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 121.53974939975848, 'risk_aversion': 0.37244568629902336, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2916.7966989892811, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.5367730662193687, 'lever': 1, 'decision': -0.499759722523202}
+Best Account Value: 2917.2389044
+Worst Account Value: 972.797112988
+END VAL: 2916.79669899
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00667019761065
+
+Best Return: 15.2580210863
+Worst Return: -15.3212135828
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 93
+
+ Average End: 2804.88613549
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 4.727405149563418, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0003627892966087, 'long_price': 0.99963734227173351, 'layers': 4, 'adaption': 0.33588926016395454, 'learner': 3, 'epoch': 20000, 'capital': 2473.3259776742375, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 135.26812348900395, 'risk_aversion': 0.40128337742189857, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 2563.3586287109324, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.49299500767694737, 'lever': 1, 'decision': -0.70788894370390465}
+Best Account Value: 2578.62810496
+Worst Account Value: 974.601178069
+END VAL: 2563.35862871
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00581130117831
+
+Best Return: 12.1895112722
+Worst Return: -13.8200123792
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 94
+
+ Average End: 2802.34374068
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.241348078078138, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 1.0005057565290543, 'long_price': 0.9994944991313105, 'layers': 4, 'adaption': 0.13734157504235125, 'learner': 3, 'epoch': 20000, 'capital': 0.69100069603684622, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 124.56429598964563, 'risk_aversion': 0.6922657096082969, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3406.9682537355434, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 1, 'lever': 1, 'decision': 0.75500765145986559}
+Best Account Value: 3415.09593163
+Worst Account Value: 956.469520795
+END VAL: 3406.96825374
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00782215095351
+
+Best Return: 19.619866784
+Worst Return: -15.8638145479
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 95
+
+ Average End: 2808.6419127
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.9990209542002102, 'long_price': 1.000980005269833, 'layers': 4, 'adaption': 0.0001, 'learner': 3, 'epoch': 20000, 'capital': 1414.609330774512, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 99.58019277796673, 'risk_aversion': 0.4579504378925916, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3222.3792202918303, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.11103866523469699, 'lever': 1, 'decision': -0.14773967512105546}
+Best Account Value: 3224.27846284
+Worst Account Value: 999.956176004
+END VAL: 3222.37922029
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00787086373519
+
+Best Return: 15.0904849418
+Worst Return: -15.3948606912
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 96
+
+ Average End: 2812.90724576
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 2.5976485065044734, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99958755762058293, 'long_price': 1.0004126125583224, 'layers': 4, 'adaption': 0.07010764390334391, 'learner': 3, 'epoch': 20000, 'capital': 1625.037069876023, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 94.07640577151996, 'risk_aversion': 0.7037834301016344, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 1625.037069876023, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.3583273795802502, 'lever': 1, 'decision': -0.29081497932309691}
+Best Account Value: 1632.88708089
+Worst Account Value: 990.759191614
+END VAL: 1625.03706988
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00451997508911
+
+Best Return: 6.90050460657
+Worst Return: -9.04478311412
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 97
+
+ Average End: 2800.78612152
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 0.739266435864872, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99986956384465442, 'long_price': 1.0001304531711557, 'layers': 4, 'adaption': 0.21014373317284513, 'learner': 3, 'epoch': 20000, 'capital': 3506.0966358487317, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 129.47396839708313, 'risk_aversion': 0.5278868087145185, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3506.0966358487317, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 1, 'lever': 1, 'decision': 0.15345766903030686}
+Best Account Value: 3551.32638662
+Worst Account Value: 992.952367782
+END VAL: 3506.09663585
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00712576496992
+
+Best Return: 20.8656365087
+Worst Return: -19.1439178116
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 98
+
+ Average End: 2807.91047015
+Best: 6182.39016043
+ Worst: 1403.0194989
+Iteration: 0
+Insturction Dictionary{'transactionCost': 1.6114188948698216, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99889009649855709, 'long_price': 1.001111136756019, 'layers': 4, 'adaption': 0.09415098222807086, 'learner': 3, 'epoch': 20000, 'capital': 1239.8444247132159, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 101.67831543313588, 'risk_aversion': 0.36767031633996883, 'iteration': 0, 'symbol': 'sine_naiveSVM(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 3193.0122525242091, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 0.5931397282752549, 'lever': 1, 'decision': 0.59209585889391936}
+Best Account Value: 3193.01225252
+Worst Account Value: 999.957486626
+END VAL: 3193.01225252
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00734152315363
+
+Best Return: 19.420543811
+Worst Return: -20.0694971782
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 99
+
+ Average End: 2811.76148797
+Best: 6182.39016043
+ Worst: 1403.0194989

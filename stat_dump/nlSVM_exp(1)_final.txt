@@ -1,0 +1,48 @@
+##################################################
+mu_profit: nan
+sigma:     nan
+median:    nan
+best:      0
+worst:     2000
+##################################################
+mu_profit: nan
+sigma:     nan
+median:    nan
+best:      0
+worst:     2000
+##################################################
+mu_profit: nan
+sigma:     nan
+median:    nan
+best:      0
+worst:     2000
+##################################################
+mu_profit: nan
+sigma:     nan
+median:    nan
+best:      0
+worst:     2000
+##################################################
+mu_profit: nan
+sigma:     nan
+median:    nan
+best:      0
+worst:     2000
+##################################################
+mu_profit: nan
+sigma:     nan
+median:    nan
+best:      0
+worst:     2000
+##################################################
+mu_profit: nan
+sigma:     nan
+median:    nan
+best:      0
+worst:     2000
+##################################################
+mu_profit: nan
+sigma:     nan
+median:    nan
+best:      0
+worst:     2000

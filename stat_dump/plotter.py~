@@ -1,0 +1,51 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun May  8 10:43:04 2016
+
+This thing reads and plots csv_files provided in the source code.
+Made to get pretty graphs for the bachelor thesis :3
+
+@author: Mats Leon Richter
+"""
+
+
+import matplotlib.pyplot as mpl
+import csv
+
+def read():
+    with open('testsenpai_notice_me.csv','rb') as f:
+            reader = csv.reader(f)
+            tstep = 0
+            for row in reader:
+                proto = row[0]
+                date, val= proto.split(' ')
+                yield (date,float(val))
+
+liste = list()
+dates = list()
+q = read()
+while(True):
+   #print(reader.readPrice())
+    try:
+        tmp = q.next()
+        d = tmp[0]
+        p = tmp[1]
+        liste.append(p)
+        dates.append(d)
+    except:
+        break
+date_len = len(dates)
+size = len(dates)/10
+label = list()
+for i in range(0,len(dates),size):
+    label.append(dates[i])
+mpl.xticks(range(0,len(dates),size),label,rotation=45)
+mpl.grid(True)
+#mpl.ylim((0,1.5))
+mpl.xlabel("Zeit")
+mpl.ylabel("Portfolio")
+mpl.plot(range(len(dates)),liste)
+mpl.show()
+
+
+    

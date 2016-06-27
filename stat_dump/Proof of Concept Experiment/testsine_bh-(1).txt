@@ -1,0 +1,21 @@
+Iteration: 99
+Insturction Dictionary{'transactionCost': 0.0001, 'weightDecay': 1, 'poly': 6, 'anti_risk': 0.5, 'short_price': 0.99958800213090682, 'long_price': 1.0004121676812996, 'layers': 4, 'adaption': 0.20127261395187282, 'learner': 6, 'epoch': 20000, 'capital': 4793.0486093383188, 'dummy_reader': 'y', 'max_draw_down': 100.0, 'stoploss': 102.52052065927909, 'risk_aversion': 0.24401311497372952, 'iteration': 99, 'symbol': 'sine_bh-(1)', 'ERROR': 'EoF', 'DEBUG': True, 'account_val': 4793.0486093383188, 'tstep': '180000', 'w_size': 100, 'm': 30, 'AdaBoost': 0, 'learn': 1, 'lever': 1, 'decision': -1}
+Best Account Value: 4870.33981064
+Worst Account Value: 982.489663833
+END VAL: 4793.04860934
+
+Starting Capital: 1000
+Sharpe Ratio: 0.00810473463175
+
+Best Return: 28.2706871024
+Worst Return: -23.8119131283
+
+
+
+
+
+ TOTAL STATS FOR ITERATION: 0
+
+ Average End: 4409.29149008
+Best: 4894.77206383
+ Worst: 1644.38211992
